@@ -1,0 +1,13 @@
+EDB
+metro(Charpennes)
+metro(Perrache)
+metro(Pardieu)
+metro(Debourg)
+creachable(Charpennes, Perrache)
+creachable(Charpennes, Charpennes)
+creachable(
+creachable(
+creachable(
+creachable(
+creachable(
+creachable(

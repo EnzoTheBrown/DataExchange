@@ -1,4 +1,9 @@
 module Main where
+import Main.Haskell.Engine
+import Main.Haskell.UnitTest
 
-main :: IO ()
-main = putStrLn "Hello, Haskell!"
+
+main = do
+  mainTest
+  mainEngine
+
